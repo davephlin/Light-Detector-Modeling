@@ -19,6 +19,7 @@ The G-protein glucose induced pathway involving AtRGS1 and trimeric G protein
    Based on light_shadow_detector.m, changing the light-glucose relationship by varying sensitivity and considering glucose homeostasis
 
 3. Images
+
    Reproducing images in the Liao et al. paper
    
 ## Visualization of the model
